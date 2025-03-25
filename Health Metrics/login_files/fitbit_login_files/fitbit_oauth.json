@@ -1,8 +1,0 @@
-{
-    "client_id": "23RRLW",
-    "client_secret": "0c5169ba0f7cc5dd5bf0b3356b138dd8",
-    "access_token": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyM1JSTFciLCJzdWIiOiJCTTI5WjMiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc29jIHJhY3QgcnNldCBybG9jIHJ3ZWkgcmhyIHJudXQgcnBybyByc2xlIiwiZXhwIjoxNzQyOTI0ODUxLCJpYXQiOjE3NDI4OTYwNTF9.spUSNqtn2tlAIGcYy354qraZnYZ9QqP3BaJd-H7iOVE",
-    "refresh_token": "da24a64d0fce723629327a707d0446493aa9ddb35b9bbbf56886f1cc4013c5dd",
-    "expires_in": 0,
-    "expires_at": 1742924851.674869
-}
